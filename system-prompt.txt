@@ -1,0 +1,1 @@
+withheld: the system prompt is not visible to this agent and its provider does not allow sharing it.
